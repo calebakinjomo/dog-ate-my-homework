@@ -2,7 +2,8 @@
 """The Dog Ate My Homework: Funniest Excuse — make.fun bounty entry.
 
 Writes one line (under 200 characters), in the dog's own voice, to
-/output/entry.txt and prints it to stdout.
+/output/entry.txt and prints it to stdout. The dog pleads its case:
+the homework had it coming.
 """
 
 import os
